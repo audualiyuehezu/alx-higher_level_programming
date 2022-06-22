@@ -1,4 +1,6 @@
- class Square."""
+#!/usr/bin/python3
+
+"""Define a class Square."""
 
 
 class Square:
@@ -49,5 +51,5 @@ class Square:
         return self.area() > other.area()
 
     def __ge__(self, other):
-        """Define the >= comparison to a Square."""
+        """Define the >= compmarison to a Square."""
         return self.area() >= other.area()
