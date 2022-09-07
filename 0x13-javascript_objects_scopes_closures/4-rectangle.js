@@ -26,7 +26,7 @@ class Rectangle {
   }
 }
 
-module.exports = Rectangle;#!/usr/bin/node
+module.exports = Rectangle;
 
 class Rectangle {
   constructor (w, h) {
